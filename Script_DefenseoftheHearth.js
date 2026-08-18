@@ -113,10 +113,10 @@ function convertSupplyRow(row) {
   const superType = row["SuperType"];
 
   // Internal-only field (never shown to players) that routes cards to the correct
-  // deckbuilding zone at setup, independent of SuperType/subType used for display.
-  // Supply = regular player cards (Buildings, Units, Skills)
-  // Keep = the Hearth card (categoriesAlreadyOnBoard -> Keep zone)
-  const cardType = superType === "Hearth" ? "Keep" : "Supply";
+  // deckbuilding zone/legality bucket at setup, independent of SuperType/subType used for display.
+  // Supply = regular player cards, Keep = the Hearth card, Token = created-in-play cards
+  // excluded from deckbuilding entirely. Read directly from the sheet's own CardType column.
+  const cardType = row["CardType"] || (superType === "Hearth" ? "Keep" : "Supply");
 
   return {
     id,
