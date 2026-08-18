@@ -1,0 +1,390 @@
+{
+  "name": "Defense of the Hearth",
+  "menuBackgroundImage": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/banner.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/1.jpg"
+    ],
+    "decksUrl": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/DefenseoftheHearthDecks.json"
+  },
+  "customHelp": "ASSUMPTIONS DRAFT - not final. Turn phases: Reload > Rush > Draw > Main > End. Life total: currently a manual counter you set to match your Hearth card's printed health when you place it (engine can't yet read the value directly off the card - to test). Draw phase: refills hand to 6 - the flat drawPerTurn value below is a placeholder and needs live testing since the engine's per-turn draw doesn't natively support a 'draw up to X' rule.",
+  "cards": {
+    "dataUrl": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/DefenseoftheHearthCards.json",
+    "cardBack": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+    "cardBackColor": "#3a3a3a"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "type",
+      "cost",
+      "class"
+    ],
+    "formats": [
+      {
+        "title": "Attrition",
+        "gameplay": "Attrition",
+        "customCategories": [
+          "Hero",
+          "Hearth",
+          "Portal"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Attrition": {
+      "mulligan": {
+        "info": "One free mulligan: shuffle your full hand back in and draw a fresh 6.",
+        "startingHandSize": 6,
+        "drawNewHand": true,
+        "mulliganCount": {
+          "max": 1
+        }
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 6
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [0],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Domain",
+          "Hero",
+          "Hearth",
+          "Path_1",
+          "Path_2",
+          "Path_3",
+          "Path_4",
+          "Path_5",
+          "Portal",
+          "Creature_Deck",
+          "Creature_Discard",
+          "Support_Left",
+          "Tower_1",
+          "Tower_2",
+          "Tower_3",
+          "Tower_4",
+          "Tower_5",
+          "Support_Right"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "row",
+              "isSymetricalForOpponents": true,
+              "style": {
+                "justifyContent": "flex-end"
+              },
+              "content": [
+                {
+                  "section": "Domain"
+                },
+                {
+                  "section": "Hero"
+                }
+              ]
+            },
+            {
+              "direction": "row",
+              "isSymetricalForOpponents": true,
+              "content": [
+                { "section": "Hearth" },
+                { "section": "Path_1" },
+                { "section": "Path_2" },
+                { "section": "Path_3" },
+                { "section": "Path_4" },
+                { "section": "Path_5" },
+                { "section": "Portal" },
+                { "section": "Creature_Deck" },
+                { "section": "Creature_Discard" }
+              ]
+            },
+            {
+              "direction": "row",
+              "isSymetricalForOpponents": true,
+              "content": [
+                { "section": "Support_Left" },
+                { "section": "Tower_1" },
+                { "section": "Tower_2" },
+                { "section": "Tower_3" },
+                { "section": "Tower_4" },
+                { "section": "Tower_5" },
+                { "section": "Support_Right" }
+              ]
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Hero",
+          "Hearth",
+          "Portal"
+        ],
+        "autoPlayFromHand": {
+          "Domain": "Domain"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Domain": {
+            "title": "Domain",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Domain",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Hero": {
+            "title": "Hero",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Hero",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Hearth": {
+            "title": "Hearth",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Hearth",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Path_1": {
+            "title": "Path_1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Path 1",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Path_2": {
+            "title": "Path_2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Path 2",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Path_3": {
+            "title": "Path_3",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Path 3",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Path_4": {
+            "title": "Path_4",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Path 4",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Path_5": {
+            "title": "Path_5",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Path 5",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Portal": {
+            "title": "Portal",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Portal",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Creature_Deck": {
+            "title": "Creature_Deck",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Creature Deck",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Creature_Discard": {
+            "title": "Creature_Discard",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Creature Discard",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Support_Left": {
+            "title": "Support_Left",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Support",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Tower_1": {
+            "title": "Tower_1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Tower 1",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Tower_2": {
+            "title": "Tower_2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Tower 2",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Tower_3": {
+            "title": "Tower_3",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Tower 3",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Tower_4": {
+            "title": "Tower_4",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Tower 4",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Tower_5": {
+            "title": "Tower_5",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Tower 5",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Support_Right": {
+            "title": "Support_Right",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Support",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}

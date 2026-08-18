@@ -1,0 +1,2896 @@
+{
+  "HTL-001": {
+    "id": "HTL-001",
+    "face": {
+      "front": {
+        "name": "Balista",
+        "type": "Building",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-001.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balista",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 1,
+    "rounds": 2,
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach"
+    ],
+    "cardInfo": "",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-002": {
+    "id": "HTL-002",
+    "face": {
+      "front": {
+        "name": "Balista",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-002.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balista",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 3,
+    "rounds": 3,
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach"
+    ],
+    "cardInfo": "",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-003": {
+    "id": "HTL-003",
+    "face": {
+      "front": {
+        "name": "Balista\n(Repeater)",
+        "type": "Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-003.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balista\n(Repeater)",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 3,
+    "cost": 4,
+    "rounds": 6,
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach"
+    ],
+    "cardInfo": "",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-004": {
+    "id": "HTL-004",
+    "face": {
+      "front": {
+        "name": "Balista\n(Sniper)",
+        "type": "Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-004.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balista\n(Sniper)",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 3,
+    "cost": 4,
+    "rounds": 1,
+    "power": 4,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach",
+      "Charging 1",
+      "Punchthrough"
+    ],
+    "cardInfo": "",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-005": {
+    "id": "HTL-005",
+    "face": {
+      "front": {
+        "name": "Mortar",
+        "type": "Building",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-005.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mortar",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 2,
+    "rounds": 1,
+    "power": 1,
+    "range": 2,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Explosive"
+    ],
+    "cardInfo": "",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-006": {
+    "id": "HTL-006",
+    "face": {
+      "front": {
+        "name": "Mortar",
+        "type": "Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-006.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mortar",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 4,
+    "rounds": 1,
+    "power": 2,
+    "range": 2,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Explosive"
+    ],
+    "cardInfo": "",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-007": {
+    "id": "HTL-007",
+    "face": {
+      "front": {
+        "name": "Mortar",
+        "type": "Building",
+        "cost": 6,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-007.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mortar",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 3,
+    "cost": 6,
+    "rounds": 2,
+    "power": 3,
+    "range": 2,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Explosive"
+    ],
+    "cardInfo": "",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-008": {
+    "id": "HTL-008",
+    "face": {
+      "front": {
+        "name": "Munition's Upgrade: \nAuto Loader",
+        "type": "Skill",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-008.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Munition's Upgrade: \nAuto Loader",
+    "type": "Skill",
+    "subType": "Augment",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": "1",
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Attatch to a Mortar and it gains 1 max Round.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-009": {
+    "id": "HTL-009",
+    "face": {
+      "front": {
+        "name": "Munition's Upgrade: \nHigh Explosive",
+        "type": "Skill",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-009.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Munition's Upgrade: \nHigh Explosive",
+    "type": "Skill",
+    "subType": "Augment",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": "1",
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Attatch to a Mortar and it gains +1 Power.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-010": {
+    "id": "HTL-010",
+    "face": {
+      "front": {
+        "name": "Martial Supremacy",
+        "type": "Domain",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-010.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Martial Supremacy",
+    "type": "Domain",
+    "subType": "Utility",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Main] [Once per Turn] Pay 3 Dust: Reload target Balista or Mortar.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-011": {
+    "id": "HTL-011",
+    "face": {
+      "front": {
+        "name": "Arc Rod",
+        "type": "Building",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-011.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arc Rod",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 2,
+    "rounds": 1,
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach",
+      "Chaining 2",
+      "Charging 1"
+    ],
+    "cardInfo": "",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-012": {
+    "id": "HTL-012",
+    "face": {
+      "front": {
+        "name": "Arc Rod",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-012.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arc Rod",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 3,
+    "rounds": 1,
+    "power": 2,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach",
+      "Chaining 2",
+      "Charging 1"
+    ],
+    "cardInfo": "Attacks become Conductive when the target is Wet.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-013": {
+    "id": "HTL-013",
+    "face": {
+      "front": {
+        "name": "Esla Bank",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-013.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esla Bank",
+    "type": "Building",
+    "subType": "Utility",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "At the beginning of your Main Phase you may pay 1 Dust, if you do, Recharge an adjacent Arc Rod.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-014": {
+    "id": "HTL-014",
+    "face": {
+      "front": {
+        "name": "Esla Bank",
+        "type": "Building",
+        "cost": 5,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-014.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esla Bank",
+    "type": "Building",
+    "subType": "Utility",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 5,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "At the beginning of your Main Phase you may pay 1 Dust, if you do, Recharge an adjacent Arc Rod and it becomes Overcharged.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-015": {
+    "id": "HTL-015",
+    "face": {
+      "front": {
+        "name": "Aura",
+        "type": "Building",
+        "cost": 0,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-015.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aura",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 0,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-016": {
+    "id": "HTL-016",
+    "face": {
+      "front": {
+        "name": "Aura (Might)",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-016.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aura (Might)",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Adjacent Towers gain +1 Power.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-017": {
+    "id": "HTL-017",
+    "face": {
+      "front": {
+        "name": "Aura (Arms)",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-017.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aura (Arms)",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Adjacent Towers gain +1 max Rounds.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-018": {
+    "id": "HTL-018",
+    "face": {
+      "front": {
+        "name": "Coldsnap",
+        "type": "Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-018.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coldsnap",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 4,
+    "rounds": 1,
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach",
+      "Charging 2"
+    ],
+    "cardInfo": "Attacks apply Chill to each Creature hit.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-019": {
+    "id": "HTL-019",
+    "face": {
+      "front": {
+        "name": "Coldsnap",
+        "type": "Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-019.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coldsnap",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 4,
+    "rounds": 1,
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Reach",
+      "Charging 2",
+      "Explosive"
+    ],
+    "cardInfo": "Attacks apply Chill to each Creature hit.\nIf this tower attacks a Frozen Creature, remove any Chill or Frozen status effects, and the attack gain +1 Power.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-020": {
+    "id": "HTL-020",
+    "face": {
+      "front": {
+        "name": "Flamespitter",
+        "type": "Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-020.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamespitter",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 4,
+    "rounds": 1,
+    "power": 2,
+    "range": 2,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Explosive",
+      "Charging 1"
+    ],
+    "cardInfo": "Attacks apply Burning to each Creature hit.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-021": {
+    "id": "HTL-021",
+    "face": {
+      "front": {
+        "name": "Flamespitter",
+        "type": "Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-021.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamespitter",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 4,
+    "rounds": 1,
+    "power": 2,
+    "range": 2,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Explosive",
+      "Charging 1"
+    ],
+    "cardInfo": "Attacks apply Burning to each Creature hit.\nAttacks deal 1 additional damage to Burning creatures.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-022": {
+    "id": "HTL-022",
+    "face": {
+      "front": {
+        "name": "Munitions Upgrade: Napalm",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-022.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Munitions Upgrade: Napalm",
+    "type": "Skill",
+    "subType": "Augment",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Attatch to a Flamespitter, and it gains:\n\"Whenever this tower a attacks, Summon a Wall of Fire Token on the target's tile.\"",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-023": {
+    "id": "HTL-023",
+    "face": {
+      "front": {
+        "name": "Wall of Fire",
+        "type": "Skill Token",
+        "cost": null,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-023.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wall of Fire",
+    "type": "Skill Token",
+    "subType": "Trap",
+    "set": "Heartland",
+    "level": null,
+    "cost": null,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "This Trap can trigger an additional time before being discarded.\nWhenever a Creature moves into this tile, each Creatures that moved into this tile is dealt 1 damage and gain Burning.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-024": {
+    "id": "HTL-024",
+    "face": {
+      "front": {
+        "name": "Snipe",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-024.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snipe",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Snipe deals 5 damage to target Creature.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-025": {
+    "id": "HTL-025",
+    "face": {
+      "front": {
+        "name": "Rain of Arrows",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-025.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rain of Arrows",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Target 1 tile. Rain of Arrows deals 2 damage to all Creatures in Range 2.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-026": {
+    "id": "HTL-026",
+    "face": {
+      "front": {
+        "name": "Explosion!",
+        "type": "Skill",
+        "cost": 7,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-026.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Explosion!",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 7,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Target 1 tile. Explosion! deals 8 damage to all Creatures in Range 3.\nYou can't play Magic cards until the end of your next turn.",
+    "rarity": "Legendary",
+    "doubleFaced": false
+  },
+  "HTL-027": {
+    "id": "HTL-027",
+    "face": {
+      "front": {
+        "name": "Crystal Farm",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-027.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crystal Farm",
+    "type": "Building",
+    "subType": "Production",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "At the beggining of your next Main Phase, add 1 Dust.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-028": {
+    "id": "HTL-028",
+    "face": {
+      "front": {
+        "name": "Crystal Farm",
+        "type": "Building",
+        "cost": 5,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-028.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Crystal Farm",
+    "type": "Building",
+    "subType": "Production",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 5,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "At the beggining of your next Main Phase, add 2 Dust.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-029": {
+    "id": "HTL-029",
+    "face": {
+      "front": {
+        "name": "Rich Crystal Vein",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-029.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rich Crystal Vein",
+    "type": "Skill",
+    "subType": "Augment",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Attatch to a Crystal Farm and it gains:\n\"At the beginning of your Main Phase; Draw 1 card.\"",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-030": {
+    "id": "HTL-030",
+    "face": {
+      "front": {
+        "name": "Warehouse",
+        "type": "Building",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-030.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warehouse",
+    "type": "Building",
+    "subType": "Production",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Stockpile 2"
+    ],
+    "cardInfo": "[Main] Pay 1 Dust: add 1 Dust Counter.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-031": {
+    "id": "HTL-031",
+    "face": {
+      "front": {
+        "name": "Warehouse",
+        "type": "Building",
+        "cost": 5,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-031.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Warehouse",
+    "type": "Building",
+    "subType": "Production",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 5,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Stockpile 4"
+    ],
+    "cardInfo": "[Main] Pay 1 Dust: add 1 Dust Counter.\nAt the begining of your Main Phase, if this card's Stockpile has 2 or more counters, add 1 Dust Counter.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-032": {
+    "id": "HTL-032",
+    "face": {
+      "front": {
+        "name": "Swoosh",
+        "type": "Skill",
+        "cost": 0,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-032.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swoosh",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 0,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Draw 1 card.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-033": {
+    "id": "HTL-033",
+    "face": {
+      "front": {
+        "name": "Swift",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-033.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swift",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Draw 2 cards.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-034": {
+    "id": "HTL-034",
+    "face": {
+      "front": {
+        "name": "Alchemy Lab",
+        "type": "Building",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-034.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alchemy Lab",
+    "type": "Building",
+    "subType": "Utility",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Discard 2 Building cards with diferent names: Search your Supply Deck or Supply Discard for a card that shares a type with one of the discarded cards.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-035": {
+    "id": "HTL-035",
+    "face": {
+      "front": {
+        "name": "Scholarium",
+        "type": "Unique Building",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-035.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scholarium",
+    "type": "Unique Building",
+    "subType": "Utility",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Archive 1",
+      "Stockpile 2"
+    ],
+    "cardInfo": "Pay 2 Dust: Archive target Skill card you own from your Supply discard onto this card.\nAt the beginning of your End Phase, if this Building is Archiving a card, add 1 Dust Counter to this card.\n(Dust Counters stored on on this building can only be used to play building cards or to pay for their abilities)",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-036": {
+    "id": "HTL-036",
+    "face": {
+      "front": {
+        "name": "Heartland Architeneum (Scholarium)",
+        "type": "Unique Building",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-036.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heartland Architeneum (Scholarium)",
+    "type": "Unique Building",
+    "subType": "Utility",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [
+      "Archive 2",
+      "Stockpile 4"
+    ],
+    "cardInfo": "Pay 2 Dust: Archive target Skill card you own from your Supply discard onto this card.\nAt the beginning of your End Phase, if this Building is Archiving a card, add 1 Dust Counter to this card.\n(Dust Counters stored on on this building can only be used to play building cards or to pay for their abilities)",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-037": {
+    "id": "HTL-037",
+    "face": {
+      "front": {
+        "name": "Reload",
+        "type": "Skill",
+        "cost": 5,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-037.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reload",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 5,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "As an additional cost to play this Skill card, remove 2 Experience Counters from your Hero: After this Main Phase there is another Reload Phase followed by another Main Phase.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-038": {
+    "id": "HTL-038",
+    "face": {
+      "front": {
+        "name": "Close to the Hearth",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-038.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Close to the Hearth",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Look at the top 5 cards of your Supply Deck, reveal up to 2 Heartland cards from among them, add them to your hand and put the rest in the bottom of your Supply Deck in any random order.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-039": {
+    "id": "HTL-039",
+    "face": {
+      "front": {
+        "name": "Stock Pull",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-039.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stock Pull",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Search your Supply Deck for a Building card and add it to your hand, then shuffle your Supply Deck.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-040": {
+    "id": "HTL-040",
+    "face": {
+      "front": {
+        "name": "Innate Skill",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-040.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Innate Skill",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Search your Supply Deck for a Skill card, add it to your hand then shuffle your Supply Deck.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-041": {
+    "id": "HTL-041",
+    "face": {
+      "front": {
+        "name": "Stop and Think",
+        "type": "Skill",
+        "cost": 0,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-041.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stop and Think",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 0,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Return 2 Skill cards from your Supply Discard to the bottom of your Supply Deck in any order: Look at the top 2 cards of your supply deck, and place them on the top or the bottom of your Supply Deck in any order.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-042": {
+    "id": "HTL-042",
+    "face": {
+      "front": {
+        "name": "Temporal Recall",
+        "type": "Skill",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-042.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temporal Recall",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Main] / [Stifle] Discard your hand. If you discarded 5 or more cards from your hand, each player shuffles their hand and Supply Discard into their Supply Deck and draws 5 cards. Instead, end the turn.",
+    "rarity": "Legendary",
+    "doubleFaced": false
+  },
+  "HTL-043": {
+    "id": "HTL-043",
+    "face": {
+      "front": {
+        "name": "Bandage",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-043.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandage",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Heal 2 life.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-044": {
+    "id": "HTL-044",
+    "face": {
+      "front": {
+        "name": "First Aid",
+        "type": "Skill",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-044.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "First Aid",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Heal 5 life.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-045": {
+    "id": "HTL-045",
+    "face": {
+      "front": {
+        "name": "Recycle",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-045.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recycle",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Return a Skill card from your supply discard to your hand.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-046": {
+    "id": "HTL-046",
+    "face": {
+      "front": {
+        "name": "Resupply",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-046.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resupply",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Return a Building card from your supply discard to your hand.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-047": {
+    "id": "HTL-047",
+    "face": {
+      "front": {
+        "name": "Restructure",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-047.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Restructure",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Dismantle target Building you own. In it's place, put a Lvl 1 Tower from your supply deck or supply discard. Shuffle your supply deck afterwards if you searched your supply deck this way.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-048": {
+    "id": "HTL-048",
+    "face": {
+      "front": {
+        "name": "Dismantle",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-048.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dismantle",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Dismantle target Building.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-049": {
+    "id": "HTL-049",
+    "face": {
+      "front": {
+        "name": "Fragile Crystal",
+        "type": "Skill",
+        "cost": 0,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-049.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fragile Crystal",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 0,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "The next Skill or Building you play, costs 2 Dust less to play.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-050": {
+    "id": "HTL-050",
+    "face": {
+      "front": {
+        "name": "Prime Crystal",
+        "type": "Skill",
+        "cost": 0,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-050.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prime Crystal",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 0,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] Pay 2 Dust: Prevent all damage to your Hearth this turn.\n[Main] Add 2 Dust.",
+    "rarity": "Legendary",
+    "doubleFaced": false
+  },
+  "HTL-051": {
+    "id": "HTL-051",
+    "face": {
+      "front": {
+        "name": "Increased Coefficient",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-051.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Increased Coefficient",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Until the end of this turn, if you discard a card to add Dust, it generates an additional Dust.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-052": {
+    "id": "HTL-052",
+    "face": {
+      "front": {
+        "name": "Foresight",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-052.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Foresight",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] Counter target Creature from being Spawned.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-053": {
+    "id": "HTL-053",
+    "face": {
+      "front": {
+        "name": "Overwatch",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-053.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Overwatch",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] Interrupt target Creature's movement. Up to 1 Loaded Tower within range can attack this Creature, if the Creature is Wounded, this attack deals double damage.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-054": {
+    "id": "HTL-054",
+    "face": {
+      "front": {
+        "name": "Jam",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-054.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jam",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] Interrupt target Tower from attacking. It can't attack until the end of this turn.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-055": {
+    "id": "HTL-055",
+    "face": {
+      "front": {
+        "name": "You're a Spy Powers...",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-055.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "You're a Spy Powers...",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Main] / [Stifle] Interrupt a Tower from attacking. It can't attack until the end of this turn.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-056": {
+    "id": "HTL-056",
+    "face": {
+      "front": {
+        "name": "Saw that Coming!",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-056.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saw that Coming!",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] Interrupt target Skill.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-057": {
+    "id": "HTL-057",
+    "face": {
+      "front": {
+        "name": "It's a Trap!",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-057.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "It's a Trap!",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] Target Creature you own gains \"Whenever this Creature dies, if it was Isolated, Spawn 2 Creature cards on that tile.\" until the end of this turn.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-058": {
+    "id": "HTL-058",
+    "face": {
+      "front": {
+        "name": "Premature Arrival",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-058.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Premature Arrival",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "As an additional cost to play this card, if this card targets a Boss or Mini-Boss, pay 2 additional Dust.\nSend target Creature to the top of the Creature deck.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-059": {
+    "id": "HTL-059",
+    "face": {
+      "front": {
+        "name": "Rush them while you can!",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-059.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rush them while you can!",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] As an additional cost, if your opponent has Loaded Towers, pay 2 Dust: You may Deploy up to 2 Creatures to your opponent's Portal.\nMain You may Deploy up to 1 Creature to your opponent's Portal.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-060": {
+    "id": "HTL-060",
+    "face": {
+      "front": {
+        "name": "They came from... behind!",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-060.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "They came from... behind!",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "As an additional cost to play this card, Sacrifice a creature you own.\n[Stifle] / [Main] Spawn 2 Creatures on the Sacrificed Creature's tile; instead if the Sacrificed Creature was a Boss, Spawn 3 Creatures.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-061": {
+    "id": "HTL-061",
+    "face": {
+      "front": {
+        "name": "Upkeep",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-061.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Upkeep",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Add 2 Dust for every Upgraded Building you own.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-062": {
+    "id": "HTL-062",
+    "face": {
+      "front": {
+        "name": "Demolish",
+        "type": "Skill",
+        "cost": 0,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-062.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demolish",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 0,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Dismantle target Building you own. Add Dust equal to it's original cost -1.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-063": {
+    "id": "HTL-063",
+    "face": {
+      "front": {
+        "name": "Holy Shield",
+        "type": "Skill",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-063.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Holy Shield",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Cleric",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Target Creature gains Sanctuary until your next turn.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-064": {
+    "id": "HTL-064",
+    "face": {
+      "front": {
+        "name": "Restoration",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-064.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Restoration",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Cleric",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Target Creature gains Regen.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-065": {
+    "id": "HTL-065",
+    "face": {
+      "front": {
+        "name": "Grand Nova",
+        "type": "Skill",
+        "cost": 6,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-065.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grand Nova",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 6,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Cleric",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Target 1 tile; Grand Nova deals 3 Explosive damage on that tile. If 2 or more Creatures were damaged this way, your Hearth Heals 3.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-066": {
+    "id": "HTL-066",
+    "face": {
+      "front": {
+        "name": "Bring to Life!",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-066.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bring to Life!",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Cleric",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "[Stifle] Target Creature you own gains \"Whenever this Creature dies, if it died during your opponent's turn, return in to play where it died at half Health.\" until the end of this turn.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-067": {
+    "id": "HTL-067",
+    "face": {
+      "front": {
+        "name": "Shield of Faith",
+        "type": "Skill",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-067.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shield of Faith",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Cleric",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Up to 2 target Creatures gain Shielding 2, if you target 2 Creatures, draw a card, if both were damaged.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-068": {
+    "id": "HTL-068",
+    "face": {
+      "front": {
+        "name": "Stones of Worship",
+        "type": "Domain",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-068.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stones of Worship",
+    "type": "Domain",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 3,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Cleric",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Whenever you heal a creature, if it was undamaged, it gains Shielding 1.\nWhenever you heal a creature, if it is Shielded, it heals for an additional point.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-069": {
+    "id": "HTL-069",
+    "face": {
+      "front": {
+        "name": "Master Blueprint",
+        "type": "Skill",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-069.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Blueprint",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Forger",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "If you control a Lvl 2 Tower, this card costs 1 Dust less to play.\nSearch your library for a Lvl 1 Building, reveal it and add it to your hand, then shuffle your supply deck.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-070": {
+    "id": "HTL-070",
+    "face": {
+      "front": {
+        "name": "Bountiful Production",
+        "type": "Skill",
+        "cost": 0,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-070.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bountiful Production",
+    "type": "Skill",
+    "subType": "Ability",
+    "set": "Heartland",
+    "level": null,
+    "cost": 0,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Forger",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Add 2 Dust Counters to a card you own with Stockpile, instead if all your Stockpiles are full, remove 1 Dust Counter from a full Stockpile and draw 2 cards.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-071": {
+    "id": "HTL-071",
+    "face": {
+      "front": {
+        "name": "Supply Line",
+        "type": "Domain",
+        "cost": 2,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-071.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Supply Line",
+    "type": "Domain",
+    "subType": "Utility",
+    "set": "Heartland",
+    "level": null,
+    "cost": 2,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Forger",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Whenever you Dismantle a Tower add 2 Dust Counters to your Hero or Warehouse.\n[Main] Pay 2 Dust: Add a Lvl 1 Tower from your Supply Discard to your hand.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-072": {
+    "id": "HTL-072",
+    "face": {
+      "front": {
+        "name": "Scrap Gun",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-072.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrap Gun",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 3,
+    "rounds": 1,
+    "power": 0,
+    "range": 2,
+    "augmentAtkRange": null,
+    "leaderLock": "Forger",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Pay 1 Dust: Attatch a Building card in your supply discard to this Tower.\nEvery 2 cards attatched to this Tower increases it's Power by 1.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-073": {
+    "id": "HTL-073",
+    "face": {
+      "front": {
+        "name": "Scrap Gun",
+        "type": "Building",
+        "cost": 5,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-073.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrap Gun",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 5,
+    "rounds": 1,
+    "power": 0,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": "Forger",
+    "faction": "Heartland",
+    "keywords": [
+      "Reach"
+    ],
+    "cardInfo": "Pay 1 Dust: Attatch a Building card in your supply discard to this Tower.\nEvery 2 cards attatched to this Tower increases it's Power by 1.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-074": {
+    "id": "HTL-074",
+    "face": {
+      "front": {
+        "name": "Scrap Gun",
+        "type": "Building",
+        "cost": 7,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-074.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scrap Gun",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 3,
+    "cost": 7,
+    "rounds": 1,
+    "power": 0,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": "Forger",
+    "faction": "Heartland",
+    "keywords": [
+      "Reach",
+      "Punchthrough"
+    ],
+    "cardInfo": "Pay 1 Dust: Attatch a Building card in your supply discard to this Tower.\nEvery 2 cards attatched to this Tower increases it's Power by 1.\nIf this Tower has 5 or more cards attatched, it gains Explosive.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-075": {
+    "id": "HTL-075",
+    "face": {
+      "front": {
+        "name": "Magic Missile",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-075.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magic Missile",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Wizard",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Return 3 cards from your supply discard pile to the bottom of your deck in any order; Deal 2 damage to target Creature.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-076": {
+    "id": "HTL-076",
+    "face": {
+      "front": {
+        "name": "Mage Tower",
+        "type": "Building",
+        "cost": 3,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-076.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mage Tower",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 1,
+    "cost": 3,
+    "rounds": "X",
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": "Wizard",
+    "faction": "Heartland",
+    "keywords": [
+      "Reach"
+    ],
+    "cardInfo": "[Main] Pay 1 Dust: Load 1 Round onto this Tower.\n(This tower doesn't Reload during your Reload Phase)",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-077": {
+    "id": "HTL-077",
+    "face": {
+      "front": {
+        "name": "Mage Tower",
+        "type": "Building",
+        "cost": 5,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-077.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mage Tower",
+    "type": "Building",
+    "subType": "Tower",
+    "set": "Heartland",
+    "level": 2,
+    "cost": 5,
+    "rounds": "X",
+    "power": 1,
+    "range": 3,
+    "augmentAtkRange": null,
+    "leaderLock": "Wizard",
+    "faction": "Heartland",
+    "keywords": [
+      "Reach"
+    ],
+    "cardInfo": "[Main] Pay 1 Dust: Load 1 Round onto this Tower.\n[Main] Pay 2 Dust: This Tower gains 1 Power until the end of the turn.\n(This tower doesn't Reload during your Reload Phase)",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-078": {
+    "id": "HTL-078",
+    "face": {
+      "front": {
+        "name": "Philo Stone",
+        "type": "Skill",
+        "cost": 1,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-078.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Philo Stone",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 1,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Wizard",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Discard 1 card: add 4 Dust.\nPhilo Stone's Cost is reduced by 1 if you control an Alchemy Lab.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-079": {
+    "id": "HTL-079",
+    "face": {
+      "front": {
+        "name": "Polymorph",
+        "type": "Skill",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-079.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Polymorph",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Wizard",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Target Minion or Mini-boss becomes a Critter with base Power, Health, and Speed of 1 until the end of your opponent's next turn.\nIf this Creature would die while it's a Critter, instead this effect ends, and remove all damage from it minus 2.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-080": {
+    "id": "HTL-080",
+    "face": {
+      "front": {
+        "name": "Blink",
+        "type": "Skill",
+        "cost": 4,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-080.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blink",
+    "type": "Skill",
+    "subType": "Magic",
+    "set": "Heartland",
+    "level": null,
+    "cost": 4,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": "Wizard",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Return 2 cards from your supply discard to the bottom of your supply deck; Move a Creature 2 spaces forward, it cannot be affected by status effects until the end of your opponent's next turn.",
+    "rarity": "Uncommon",
+    "doubleFaced": false
+  },
+  "HTL-081": {
+    "id": "HTL-081",
+    "face": {
+      "front": {
+        "name": "\"Old Path\" Outpost",
+        "type": "Hearth",
+        "cost": null,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-081.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Old Path\" Outpost",
+    "type": "Hearth",
+    "subType": "Shard",
+    "set": "Heartland",
+    "level": null,
+    "cost": null,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": "5",
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Whenever a Creature reaches the halfway tile, Reinforce 2.\n[Stifle] Call the Guard! Pay 3 Dust: When a Boss reaches the halfway tile Summon 2 Guardsman Unit Tokens 1 tile ahead of the Boss card, and they Clash.",
+    "rarity": "Rare",
+    "doubleFaced": false
+  },
+  "HTL-082": {
+    "id": "HTL-082",
+    "face": {
+      "front": {
+        "name": "Workshop Fragment",
+        "type": "Hearth",
+        "cost": null,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-082.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Workshop Fragment",
+    "type": "Hearth",
+    "subType": "Shard",
+    "set": "Heartland",
+    "level": null,
+    "cost": null,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": "10",
+    "leaderLock": "Forger",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "If you control only Hearthland cards, at the begining of your Main Phase, add 1 Dust Counter to up to 2 Stockpiles. If you max out a Stockpile's capacity this way, Draw a card for each maxed out Stockpile you control.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-083": {
+    "id": "HTL-083",
+    "face": {
+      "front": {
+        "name": "Sun Stone Cathedral",
+        "type": "Hearth",
+        "cost": null,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-083.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sun Stone Cathedral",
+    "type": "Hearth",
+    "subType": "Shard",
+    "set": "Heartland",
+    "level": null,
+    "cost": null,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": "10",
+    "leaderLock": "Cleric",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Sun Stone Cathedral takes double damage from minions.\nUnited we Stand Whenever a Creature is healed, if it was at full health, Keyword:Reinforce 1.\nWhenever a Shield Counter is removed, if you dealt the damage to that Creature, draw a card.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-084": {
+    "id": "HTL-084",
+    "face": {
+      "front": {
+        "name": "\"Floating Pen\" Square",
+        "type": "Hearth",
+        "cost": null,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-084.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "\"Floating Pen\" Square",
+    "type": "Hearth",
+    "subType": "Shard",
+    "set": "Heartland",
+    "level": null,
+    "cost": null,
+    "rounds": null,
+    "power": null,
+    "range": null,
+    "augmentAtkRange": "6",
+    "leaderLock": "Wizard",
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Whenever a card leaves your supply discard, add an Essence Counter to this card.\nIf \"Floating Pen\" Square had 10 or more counters, remove all Essence Counters from this card and Summon an Arcane Barrier Unit Token in front of the Hearth.",
+    "rarity": "Epic",
+    "doubleFaced": false
+  },
+  "HTL-085": {
+    "id": "HTL-085",
+    "face": {
+      "front": {
+        "name": "Arcane Barrier",
+        "type": "Unit Token",
+        "cost": null,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-085.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arcane Barrier",
+    "type": "Unit Token",
+    "subType": "Summon",
+    "set": "Heartland",
+    "level": null,
+    "cost": null,
+    "rounds": null,
+    "power": "X",
+    "range": null,
+    "augmentAtkRange": null,
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "Arcane Barrier's health equals the ammount of Shielding Counters attatched to the card.\nThis Unit enters with Shielding X, where X is 1 plus an additional counter for every 5 Essence Counters removed from your Hearth this turn.",
+    "rarity": "Common",
+    "doubleFaced": false
+  },
+  "HTL-086": {
+    "id": "HTL-086",
+    "face": {
+      "front": {
+        "name": "Guardsman",
+        "type": "Unit Token",
+        "cost": null,
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-086.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_back/DotH_Cardback.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardsman",
+    "type": "Unit Token",
+    "subType": "Summon",
+    "set": "Heartland",
+    "level": null,
+    "cost": null,
+    "rounds": 2,
+    "power": 2,
+    "range": 1,
+    "augmentAtkRange": "1",
+    "leaderLock": null,
+    "faction": "Heartland",
+    "keywords": [],
+    "cardInfo": "",
+    "rarity": "Common",
+    "doubleFaced": false
+  }
+}
