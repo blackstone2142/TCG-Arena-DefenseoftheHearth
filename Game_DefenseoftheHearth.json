@@ -15,9 +15,9 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "type",
-      "cost",
-      "class"
+      "superType",
+      "subType",
+      "cost"
     ],
     "formats": [
       {

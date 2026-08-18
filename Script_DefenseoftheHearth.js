@@ -123,7 +123,7 @@ function convertSupplyRow(row) {
     face: {
       front: {
         name: row["Name"],
-        type: superType,
+        type: cardType, // drives deckbuilder bucket grouping + categoriesAlreadyOnBoard matching
         cost: toNumberOrNull(row["Cost"]),
         image: frontImage,
         isHorizontal: false
@@ -135,7 +135,8 @@ function convertSupplyRow(row) {
       }
     },
     name: row["Name"],
-    type: superType,
+    type: cardType, // Supply / Keep / Token / (Breech / Breecher / Leader on other sheets)
+    superType, // Building / Skill / Domain / Hearth / etc. - used for the superType mainFilter
     subType: row["SubType"] || null,
     cardType,
     set: row["Set"] || "",
