@@ -24,12 +24,34 @@
         "title": "Attrition",
         "gameplay": "Attrition",
         "customCategories": [
-          "Hero",
-          "Hearth",
-          "Portal"
+          "Leader",
+          "Keep",
+          "Breech",
+          "Breecher"
+        ],
+        "deckRuleset": "Attrition"
+      }
+    ],
+    "deckRulesets": {
+      "Attrition": {
+        "general": {
+          "min": 60,
+          "max": 60,
+          "maxPerCard": 4
+        },
+        "categories": [
+          { "category": "Legendary", "maxPerCard": 2 },
+          { "category": "Epic", "maxPerCard": 3 },
+          { "category": "Rare", "maxPerCard": 4 },
+          { "category": "Uncommon", "maxPerCard": 4 },
+          { "category": "Common", "maxPerCard": 4 },
+          { "category": "Leader", "min": 1, "max": 1, "ignoreTotalCount": true },
+          { "category": "Keep", "min": 1, "max": 1, "ignoreTotalCount": true },
+          { "category": "Breech", "min": 1, "max": 1, "ignoreTotalCount": true },
+          { "category": "Breecher", "min": 60, "max": 60, "ignoreTotalCount": true }
         ]
       }
-    ]
+    }
   },
   "gameplay": {
     "Attrition": {
@@ -122,9 +144,10 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Hero",
-          "Hearth",
-          "Portal"
+          "Leader",
+          "Keep",
+          "Breech",
+          "Breecher->Creature_Deck"
         ],
         "autoPlayFromHand": {
           "Domain": "Domain"

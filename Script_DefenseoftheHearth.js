@@ -110,13 +110,20 @@ function convertSupplyRow(row) {
   const keywords = [row["Keyword 1"], row["Keyword 2"], row["Keyword 3"]].filter(
     (k) => k && k.trim() !== ""
   );
+  const superType = row["SuperType"];
+
+  // Internal-only field (never shown to players) that routes cards to the correct
+  // deckbuilding zone at setup, independent of SuperType/subType used for display.
+  // Supply = regular player cards (Buildings, Units, Skills)
+  // Keep = the Hearth card (categoriesAlreadyOnBoard -> Keep zone)
+  const cardType = superType === "Hearth" ? "Keep" : "Supply";
 
   return {
     id,
     face: {
       front: {
         name: row["Name"],
-        type: row["SuperType"],
+        type: superType,
         cost: toNumberOrNull(row["Cost"]),
         image: frontImage,
         isHorizontal: false
@@ -128,8 +135,9 @@ function convertSupplyRow(row) {
       }
     },
     name: row["Name"],
-    type: row["SuperType"],
+    type: superType,
     subType: row["SubType"] || null,
+    cardType,
     set: row["Set"] || "",
     level: toNumberOrNull(row["Level"]),
     cost: toNumberOrNull(row["Cost"]),
