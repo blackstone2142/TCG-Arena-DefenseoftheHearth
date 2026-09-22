@@ -1,9 +1,9 @@
 {
   "name": "Defense of the Hearth",
-  "menuBackgroundImage": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/banner.jpg",
+  "menuBackgroundImage": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Media/DotH_Banner_1920x1080.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/1.jpg"
+      "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Board/DotH_Playmat.png"
     ],
     "decksUrl": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/DefenseoftheHearthDecks.json"
   },
@@ -44,7 +44,7 @@
           { "category": "Leader", "min": 1, "max": 1, "ignoreTotalCount": true },
           { "category": "Keep", "min": 1, "max": 1, "ignoreTotalCount": true },
           { "category": "Breach", "min": 1, "max": 1, "ignoreTotalCount": true },
-          { "category": "Breacher", "min": 60, "max": 60, "ignoreTotalCount": true },
+          { "category": "Breacher", "min": 60, "max": 60, "maxPerCard": 8, "ignoreTotalCount": true },
           { "category": "Token", "max": 0, "ignoreTotalCount": true },
           { "category": "Supply", "min": 60, "max": 60 }
         ]
