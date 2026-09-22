@@ -3,7 +3,7 @@
     "id": "HTL-001",
     "face": {
       "front": {
-        "name": "Balista",
+        "name": "Balista Lvl 1",
         "type": "Supply",
         "cost": 1,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-001.png",
@@ -15,7 +15,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Balista",
+    "name": "Balista Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -39,7 +39,7 @@
     "id": "HTL-002",
     "face": {
       "front": {
-        "name": "Balista",
+        "name": "Balista Lvl 2",
         "type": "Supply",
         "cost": 3,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-002.png",
@@ -51,7 +51,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Balista",
+    "name": "Balista Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -149,7 +149,7 @@
     "id": "HTL-005",
     "face": {
       "front": {
-        "name": "Mortar",
+        "name": "Mortar Lvl 1",
         "type": "Supply",
         "cost": 2,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-005.png",
@@ -161,7 +161,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mortar",
+    "name": "Mortar Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -185,7 +185,7 @@
     "id": "HTL-006",
     "face": {
       "front": {
-        "name": "Mortar",
+        "name": "Mortar Lvl 2",
         "type": "Supply",
         "cost": 4,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-006.png",
@@ -197,7 +197,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mortar",
+    "name": "Mortar Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -221,7 +221,7 @@
     "id": "HTL-007",
     "face": {
       "front": {
-        "name": "Mortar",
+        "name": "Mortar Lvl 3",
         "type": "Supply",
         "cost": 6,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-007.png",
@@ -233,7 +233,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mortar",
+    "name": "Mortar Lvl 3",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -359,7 +359,7 @@
     "id": "HTL-011",
     "face": {
       "front": {
-        "name": "Arc Rod",
+        "name": "Arc Rod Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-011.png",
@@ -371,7 +371,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arc Rod",
+    "name": "Arc Rod Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -397,7 +397,7 @@
     "id": "HTL-012",
     "face": {
       "front": {
-        "name": "Arc Rod",
+        "name": "Arc Rod Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-012.png",
@@ -409,7 +409,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Arc Rod",
+    "name": "Arc Rod Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -435,7 +435,7 @@
     "id": "HTL-013",
     "face": {
       "front": {
-        "name": "Esla Bank",
+        "name": "Esla Bank Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-013.png",
@@ -447,7 +447,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Esla Bank",
+    "name": "Esla Bank Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Utility",
@@ -469,7 +469,7 @@
     "id": "HTL-014",
     "face": {
       "front": {
-        "name": "Esla Bank",
+        "name": "Esla Bank Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-014.png",
@@ -481,7 +481,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Esla Bank",
+    "name": "Esla Bank Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Utility",
@@ -605,7 +605,7 @@
     "id": "HTL-018",
     "face": {
       "front": {
-        "name": "Coldsnap",
+        "name": "Coldsnap Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-018.png",
@@ -617,7 +617,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Coldsnap",
+    "name": "Coldsnap Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -642,7 +642,7 @@
     "id": "HTL-019",
     "face": {
       "front": {
-        "name": "Coldsnap",
+        "name": "Coldsnap Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-019.png",
@@ -654,7 +654,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Coldsnap",
+    "name": "Coldsnap Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -680,7 +680,7 @@
     "id": "HTL-020",
     "face": {
       "front": {
-        "name": "Flamespitter",
+        "name": "Flamespitter Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-020.png",
@@ -692,7 +692,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flamespitter",
+    "name": "Flamespitter Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -717,7 +717,7 @@
     "id": "HTL-021",
     "face": {
       "front": {
-        "name": "Flamespitter",
+        "name": "Flamespitter Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-021.png",
@@ -729,7 +729,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Flamespitter",
+    "name": "Flamespitter Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -924,7 +924,7 @@
     "id": "HTL-027",
     "face": {
       "front": {
-        "name": "Crystal Farm",
+        "name": "Crystal Farm Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-027.png",
@@ -936,7 +936,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crystal Farm",
+    "name": "Crystal Farm Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Production",
@@ -958,7 +958,7 @@
     "id": "HTL-028",
     "face": {
       "front": {
-        "name": "Crystal Farm",
+        "name": "Crystal Farm Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-028.png",
@@ -970,7 +970,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Crystal Farm",
+    "name": "Crystal Farm Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Production",
@@ -1026,7 +1026,7 @@
     "id": "HTL-030",
     "face": {
       "front": {
-        "name": "Warehouse",
+        "name": "Warehouse Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-030.png",
@@ -1038,7 +1038,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Warehouse",
+    "name": "Warehouse Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Production",
@@ -1062,7 +1062,7 @@
     "id": "HTL-031",
     "face": {
       "front": {
-        "name": "Warehouse",
+        "name": "Warehouse Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-031.png",
@@ -1074,7 +1074,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Warehouse",
+    "name": "Warehouse Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Production",
@@ -2464,7 +2464,7 @@
     "id": "HTL-072",
     "face": {
       "front": {
-        "name": "Scrap Gun",
+        "name": "Scrap Gun Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-072.png",
@@ -2476,7 +2476,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scrap Gun",
+    "name": "Scrap Gun Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -2498,7 +2498,7 @@
     "id": "HTL-073",
     "face": {
       "front": {
-        "name": "Scrap Gun",
+        "name": "Scrap Gun Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-073.png",
@@ -2510,7 +2510,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scrap Gun",
+    "name": "Scrap Gun Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -2534,7 +2534,7 @@
     "id": "HTL-074",
     "face": {
       "front": {
-        "name": "Scrap Gun",
+        "name": "Scrap Gun Lvl 3",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-074.png",
@@ -2546,7 +2546,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Scrap Gun",
+    "name": "Scrap Gun Lvl 3",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -2605,7 +2605,7 @@
     "id": "HTL-076",
     "face": {
       "front": {
-        "name": "Mage Tower",
+        "name": "Mage Tower Lvl 1",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-076.png",
@@ -2617,7 +2617,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mage Tower",
+    "name": "Mage Tower Lvl 1",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
@@ -2641,7 +2641,7 @@
     "id": "HTL-077",
     "face": {
       "front": {
-        "name": "Mage Tower",
+        "name": "Mage Tower Lvl 2",
         "type": "Supply",
         "cost": null,
         "image": "https://blackstone2142.github.io/TCG-Arena-DefenseoftheHearth/Images/Card_Sets/Hearthland/Supply/_front/HTL-077.png",
@@ -2653,7 +2653,7 @@
         "isHorizontal": false
       }
     },
-    "name": "Mage Tower",
+    "name": "Mage Tower Lvl 2",
     "type": "Supply",
     "superType": "Building",
     "subType": "Tower",
