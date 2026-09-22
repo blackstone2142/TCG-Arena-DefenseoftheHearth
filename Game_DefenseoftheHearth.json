@@ -142,9 +142,9 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Leader",
-          "Keep",
-          "Breach",
+          "Leader->Hero",
+          "Keep->Hearth",
+          "Breach->Portal",
           "Breacher->Creature_Deck"
         ],
         "autoPlayFromHand": {
