@@ -104,10 +104,12 @@
               },
               "content": [
                 {
-                  "section": "Domain"
+                  "section": "Domain",
+                  "style": { "width": "10rem" }
                 },
                 {
-                  "section": "Hero"
+                  "section": "Hero",
+                  "style": { "width": "18rem" }
                 }
               ]
             },
@@ -158,7 +160,7 @@
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "Domain",
             "noQuickActions": true,
             "enterTapped": false,
@@ -170,23 +172,23 @@
             "title": "Hero",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "NONE",
             "opponentAlignment": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "Hero",
             "noQuickActions": true,
             "enterTapped": false,
-            "isGroupForbidden": true,
+            "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Hearth": {
             "title": "Hearth",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
+            "height": "MEDIUM",
+            "alignment": "NONE",
             "opponentAlignment": false,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "Hearth",
             "noQuickActions": true,
             "enterTapped": false,
@@ -267,10 +269,10 @@
           "Portal": {
             "title": "Portal",
             "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
+            "height": "MEDIUM",
+            "alignment": "NONE",
             "opponentAlignment": false,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "Portal",
             "noQuickActions": true,
             "enterTapped": false,
